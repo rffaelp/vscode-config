@@ -26,7 +26,7 @@ Abra o **PowerShell** no Windows e execute os dois comandos abaixo:
 cd $env:APPDATA\Code\User
 
 # 2. Clona o repositório diretamente dentro da pasta atual
-git clone [https://github.com/rffaelp/vscode-config.git](https://github.com/rffaelp/vscode-config.git) .
+git clone https://github.com/rffaelp/vscode-config.git .
 ```
 
 ### Passo 2: Instalar todas as extensões automaticamente

@@ -98,4 +98,5 @@
     "strings": "inline",
   },
   "git.autofetch": true,
+  "git.confirmSync": false,
 }
