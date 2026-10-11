@@ -1,0 +1,29 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "capslock 2",
+    "command": "workbench.action.quickOpenView",
+  },
+  {
+    "key": "capslock 3",
+    "command": "workbench.action.toggleSidebarVisibility",
+  },
+  {
+    "key": "capslock 4",
+    "command": "workbench.action.toggleAuxiliaryBar",
+  },
+  {
+    "key": "capslock 1",
+    "command": "workbench.action.showCommands",
+  },
+  {
+    "key": "tab",
+    "command": "workbench.action.quickOpenNavigateNextInViewPicker",
+    "when": "inQuickOpen && inViewsPicker",
+  },
+  {
+    "key": "alt",
+    "command": "list.toggleExpand",
+    "when": "listFocus && !inputFocus && !treestickyScrollFocused",
+  },
+]

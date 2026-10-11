@@ -1,0 +1,12 @@
+# 1. Bloquear todos os arquivos e pastas por padrão
+*
+
+# 2. Abrir exceções (não ignorar) para os arquivos de configuração
+!settings.json
+!keybindings.json
+!.gitignore
+!extensions.txt
+
+# 3. Permitir a pasta de Snippets personalizados (atalhos de código)
+!snippets/
+!snippets/*
