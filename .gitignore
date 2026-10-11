@@ -6,6 +6,7 @@
 !keybindings.json
 !.gitignore
 !extensions.txt
+!README.md
 
 # 3. Permitir a pasta de Snippets personalizados (atalhos de código)
 !snippets/
